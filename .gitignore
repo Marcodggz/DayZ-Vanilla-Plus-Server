@@ -5,3 +5,7 @@
 !.env.example
 backups/
 private/
+
+# Large generated vanilla map reference files
+vanilla/snapshots/**/dayzOffline.chernarusplus/areaflags.map
+vanilla/snapshots/**/dayzOffline.chernarusplus/mapgroupcluster*.xml
