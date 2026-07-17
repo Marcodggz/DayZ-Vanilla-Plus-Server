@@ -10,6 +10,7 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
+		"spawnGearPresetFiles": ["./custom/bot_test_spawn.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 0,
@@ -102,7 +103,7 @@
 	{
 		"ignoreMapOwnership": false,
 		"ignoreNavItemsOwnership": false,
-		"displayPlayerPosition": false,
+		"displayPlayerPosition": true,
 		"displayNavInfo": true
 	},
 	"VehicleData":
