@@ -12,3 +12,7 @@ vanilla/snapshots/**/dayzOffline.chernarusplus/mapgroupcluster*.xml
 
 # Generated comparison reports
 reports/generated/
+
+# Large generated Livonia map files
+vanilla/livonia-reference/dayzOffline.enoch/areaflags.map
+vanilla/livonia-reference/dayzOffline.enoch/mapgroupcluster*.xml
