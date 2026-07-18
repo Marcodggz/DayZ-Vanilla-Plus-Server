@@ -15115,10 +15115,10 @@
         <usage name="Medic"/>
     </type>
     <type name="PartyTent">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15128,10 +15128,10 @@
         <usage name="Village"/>
     </type>
     <type name="PartyTent_Blue">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15141,10 +15141,10 @@
         <usage name="Village"/>
     </type>
     <type name="PartyTent_Brown">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15154,10 +15154,10 @@
         <usage name="Village"/>
     </type>
     <type name="PartyTent_Lunapark">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
-        <min>6</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15967,7 +15967,7 @@
         <value name="Tier3"/>
     </type>
     <type name="PoliceVest">
-        <nominal>15</nominal>
+        <nominal>16</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -16101,7 +16101,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="PressVest_Blue">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -16113,7 +16113,7 @@
         <usage name="Police"/>
     </type>
     <type name="PressVest_LightBlue">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>5</min>
