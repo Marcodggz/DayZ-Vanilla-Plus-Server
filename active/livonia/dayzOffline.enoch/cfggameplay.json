@@ -10,6 +10,7 @@
     "PlayerData":
 	{
 		"disablePersonalLight": false,
+               "spawnGearPresetFiles": ["./custom/bot_test_spawn.json"],
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 0,
