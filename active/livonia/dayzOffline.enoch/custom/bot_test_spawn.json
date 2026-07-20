@@ -84,6 +84,44 @@
       ]
     },
     {
+      "slotName": "Headgear",
+      "discreteItemSets": [
+        {
+          "itemType": "Mich2001Helmet",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1,
+          "complexChildrenTypes": [
+            {
+              "itemType": "NVGoggles",
+              "attributes": {
+                "healthMin": 1.0,
+                "healthMax": 1.0,
+                "quantityMin": 1.0,
+                "quantityMax": 1.0
+              },
+              "quickBarSlot": -1
+            },
+            {
+              "itemType": "Battery9V",
+              "attributes": {
+                "healthMin": 1.0,
+                "healthMax": 1.0,
+                "quantityMin": 1.0,
+                "quantityMax": 1.0
+              },
+              "quickBarSlot": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
       "slotName": "Vest",
       "discreteItemSets": [
         {
@@ -208,26 +246,6 @@
       },
       "complexChildrenTypes": [
         {
-          "itemType": "Mag_STANAG_30Rnd",
-          "attributes": {
-            "healthMin": 1.0,
-            "healthMax": 1.0,
-            "quantityMin": 1.0,
-            "quantityMax": 1.0
-          },
-          "quickBarSlot": -1
-        },
-        {
-          "itemType": "M67Grenade",
-          "attributes": {
-            "healthMin": 1.0,
-            "healthMax": 1.0,
-            "quantityMin": 1.0,
-            "quantityMax": 1.0
-          },
-          "quickBarSlot": 3
-        },
-        {
           "itemType": "SodaCan_Cola",
           "attributes": {
             "healthMin": 1.0,
@@ -266,6 +284,56 @@
             "quantityMax": 1.0
           },
           "quickBarSlot": 5
+        },
+        {
+          "itemType": "Mag_FAL_20Rnd",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "Mag_STANAG_30Rnd",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "Mag_STANAG_30Rnd",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
+        },
+        {
+          "itemType": "M67Grenade",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": 3
+        },
+        {
+          "itemType": "M67Grenade",
+          "attributes": {
+            "healthMin": 1.0,
+            "healthMax": 1.0,
+            "quantityMin": 1.0,
+            "quantityMax": 1.0
+          },
+          "quickBarSlot": -1
         }
       ]
     }
